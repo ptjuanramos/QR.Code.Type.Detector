@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\QR.Image.DetectorML.Model\QR.Image.DetectorML.Model.csproj" />
+  </ItemGroup>
+
 </Project>
