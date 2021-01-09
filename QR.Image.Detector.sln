@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR.Image.Detector", "QR.Image.Detector\QR.Image.Detector.csproj", "{B3F3B406-9F84-4906-83D8-F9BED810790F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F3B406-9F84-4906-83D8-F9BED810790F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F3B406-9F84-4906-83D8-F9BED810790F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F3B406-9F84-4906-83D8-F9BED810790F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F3B406-9F84-4906-83D8-F9BED810790F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F7EF4A-BFF4-4A7B-B08C-1E8F57E9341D}
+	EndGlobalSection
+EndGlobal
